@@ -1,0 +1,7 @@
+{
+	"access_token": "<YOUR_ACCESS_TOKEN>",
+	"course_id" : "<THE_COURSE_ID>",  
+	"assignment_id" : "<THE_ASSIGNMENT_ID>",
+	"excel_file" : "GradersSheet.xlsx",
+	"excel_sheet": "GRADES"
+}
