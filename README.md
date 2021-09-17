@@ -8,6 +8,7 @@ College of Computing
 ----
 
 Note 1: The script is intentionally kept simple enough for further developments and manual tweaks. Feel free to do the necessay changes, including OOP design and/or adding a GUI.
+
 Note 2: The provided Excel file is a sample with some dummy names. You need to use the students names and ids from Canvas gradebook list.
 
 ----
