@@ -8,8 +8,8 @@ College of Computing
 ----
 
 Note 1: The script is intentionally kept simple enough for further developments and manual tweaks. Feel free to do the necessay changes, including OOP design and/or adding a GUI.
-
 Note 2: The provided Excel file is a sample with some dummy names. You need to use the students names and ids from Canvas gradebook list.
+
 ----
 ### Instructions
 
@@ -32,6 +32,6 @@ Note 2: The provided Excel file is a sample with some dummy names. You need to u
 - Before the next step, you may want to change Grade Posting Policy for the assignment to "Manually", if you don't want grades to be immediately visible to students when posted.
 
 - Run gradeUploader.py
-    python3 grade_uploader.py
+>  python3 grade_uploader.py
 
 - If you changed Grade Posting Policy to manual earlier, now you can click "Post grades" from Gradebook
