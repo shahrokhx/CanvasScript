@@ -2,7 +2,9 @@
 A simple Python script to automatically upload the grades and feedbacks on Canvas.
 
 Prepared by SHAHROKH SHAHI
+
 Georgia Institute of Technology
+
 College of Computing
 
 ----
